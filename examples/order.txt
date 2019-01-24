@@ -1,0 +1,4 @@
+#XinaBox
+    ##SU02
+        read_input
+
