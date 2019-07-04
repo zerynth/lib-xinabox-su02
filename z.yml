@@ -1,0 +1,16 @@
+---
+description: Module for XinaBox SU02 digital input
+fullname: lib.xinabox.su02
+info:
+    chip_manufacturer: XinaBox
+    chip_name: SU02
+    name: Digital Input
+    type: Sensor
+keywords:
+- digital input
+- sensor
+- I2C
+- xinabox
+- ADC081C021
+title: XinaBox SU02
+...
